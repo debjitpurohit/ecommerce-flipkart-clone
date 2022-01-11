@@ -1,0 +1,46 @@
+@media screen and (max-width:1000px){
+    body{
+        /* background-color: red; */
+
+    }
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        justify-content: center;
+        margin: 12px 0;
+    }
+    nav ul{
+        /* align-items: center; */
+        justify-content: center;
+        margin: -18px 65px;
+        padding: 2px 2px;
+        display: flex;
+    }
+    .search{
+        /* align-items: center; */
+        /* justify-content: center; */
+        /* margin: -5px 63px; */
+        /* padding: 2px 2px; */
+    } 
+    header{
+        height: 120px;
+    }
+    .slider{
+        height: 30vh;
+        width: 65vw;
+        justify-content: center;
+    }
+    .card-item img{
+        width: 140px;
+        height: 140px;
+    }
+    .card-item2 img{
+        width: 140px;
+        height: 140px;
+    }
+    .card-item3 img{
+        width: 140px;
+        height: 140px;
+    }
+}
