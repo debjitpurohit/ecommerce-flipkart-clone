@@ -28,7 +28,7 @@
     }
     .slider{
         height: 20vh;
-        width: 65vw;
+/*         width: 65vw; */
         justify-content: center;
     }
     .card-item img{
