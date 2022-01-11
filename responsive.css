@@ -28,9 +28,14 @@
     }
     .slider{
         height: 20vh;
+<<<<<<< HEAD
         padding: 2px auto;
         /* width: 65vw; */
         /* justify-content: center; */
+=======
+        width: 65vw;
+        justify-content: center;
+>>>>>>> 9fef74a9297053d5601632159488cd76ef008b90
     }
     .card-item img{
         width: 140px;
